@@ -1,7 +1,7 @@
 # public
 
 ## results
-### Alleles
+### alleles
 
 ## data
 ### AIRR-seq
