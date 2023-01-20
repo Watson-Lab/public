@@ -1,0 +1,2 @@
+sample_name	alt_name	alleles_path	airr-seq_path
+CE0005802	SC-17	
