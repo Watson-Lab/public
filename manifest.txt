@@ -1,2 +1,2 @@
-sample_name	alt_name	alleles_path	airr-seq_path
-CE0005802	SC-17	https://raw.githubusercontent.com/Watson-Lab/public/main/results/alleles/CE0005802.bed	https://raw.githubusercontent.com/Watson-Lab/public/main/data/airrseq/CE0005802.fastq.gz
+sample_name	alt_name	alleles_path	airr-seq_path_r1	airr-seq_path_r2	airr-seq_primer_igg	airr-seq_primer_igm
+CE0005802	SC-17	https://raw.githubusercontent.com/Watson-Lab/public/main/results/alleles/CE0005802.bed	https://watsonlabpublic.blob.core.windows.net/public/data/airrseq/CE0005802_R1.fastq.gz	https://watsonlabpublic.blob.core.windows.net/public/data/airrseq/CE0005802_R2.fastq.gz	GACSGATGGGCCCTTGGTGGA	ACGGGGAATTCTCACAGGAGA
